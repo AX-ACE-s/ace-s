@@ -1,0 +1,600 @@
+<?xml version='1.0' encoding='utf-8'?>
+<response><body><items><item>
+<ctpvNm>서울특별시</ctpvNm>
+<sggNm>종로구</sggNm>
+<larWasNm>비닐옷장</larWasNm>
+<larWasSeNm>가구류</larWasSeNm>
+<larWasSpcfct>모든규격</larWasSpcfct>
+<paidFreeYn>유료</paidFreeYn>
+<fee>3000</fee>
+<mngInstNm>서울특별시 종로구청</mngInstNm>
+<crtrYmd>2026-09-07</crtrYmd>
+<insttCode>3000000</insttCode>
+<insttNm>서울특별시 종로구</insttNm>
+</item>
+<item>
+<ctpvNm>서울특별시</ctpvNm>
+<sggNm>종로구</sggNm>
+<larWasNm>변기</larWasNm>
+<larWasSeNm>가구류</larWasSeNm>
+<larWasSpcfct>좌변기</larWasSpcfct>
+<paidFreeYn>유료</paidFreeYn>
+<fee>5000</fee>
+<mngInstNm>서울특별시 종로구청</mngInstNm>
+<crtrYmd>2026-09-07</crtrYmd>
+<insttCode>3000000</insttCode>
+<insttNm>서울특별시 종로구</insttNm>
+</item>
+<item>
+<ctpvNm>서울특별시</ctpvNm>
+<sggNm>종로구</sggNm>
+<larWasNm>변기</larWasNm>
+<larWasSeNm>가구류</larWasSeNm>
+<larWasSpcfct>양변기</larWasSpcfct>
+<paidFreeYn>유료</paidFreeYn>
+<fee>7000</fee>
+<mngInstNm>서울특별시 종로구청</mngInstNm>
+<crtrYmd>2026-09-07</crtrYmd>
+<insttCode>3000000</insttCode>
+<insttNm>서울특별시 종로구</insttNm>
+</item>
+<item>
+<ctpvNm>서울특별시</ctpvNm>
+<sggNm>종로구</sggNm>
+<larWasNm>밥상</larWasNm>
+<larWasSeNm>가구류</larWasSeNm>
+<larWasSpcfct>소형 다과상</larWasSpcfct>
+<paidFreeYn>유료</paidFreeYn>
+<fee>2000</fee>
+<mngInstNm>서울특별시 종로구청</mngInstNm>
+<crtrYmd>2026-09-07</crtrYmd>
+<insttCode>3000000</insttCode>
+<insttNm>서울특별시 종로구</insttNm>
+</item>
+<item>
+<ctpvNm>서울특별시</ctpvNm>
+<sggNm>종로구</sggNm>
+<larWasNm>밥상</larWasNm>
+<larWasSeNm>가구류</larWasSeNm>
+<larWasSpcfct>4인용 이하</larWasSpcfct>
+<paidFreeYn>유료</paidFreeYn>
+<fee>3000</fee>
+<mngInstNm>서울특별시 종로구청</mngInstNm>
+<crtrYmd>2026-09-07</crtrYmd>
+<insttCode>3000000</insttCode>
+<insttNm>서울특별시 종로구</insttNm>
+</item>
+<item>
+<ctpvNm>서울특별시</ctpvNm>
+<sggNm>종로구</sggNm>
+<larWasNm>밥상</larWasNm>
+<larWasSeNm>가구류</larWasSeNm>
+<larWasSpcfct>5인용 이상</larWasSpcfct>
+<paidFreeYn>유료</paidFreeYn>
+<fee>4000</fee>
+<mngInstNm>서울특별시 종로구청</mngInstNm>
+<crtrYmd>2026-09-07</crtrYmd>
+<insttCode>3000000</insttCode>
+<insttNm>서울특별시 종로구</insttNm>
+</item>
+<item>
+<ctpvNm>서울특별시</ctpvNm>
+<sggNm>종로구</sggNm>
+<larWasNm>문짝</larWasNm>
+<larWasSeNm>가구류</larWasSeNm>
+<larWasSpcfct>1㎡당</larWasSpcfct>
+<paidFreeYn>유료</paidFreeYn>
+<fee>2000</fee>
+<mngInstNm>서울특별시 종로구청</mngInstNm>
+<crtrYmd>2026-09-07</crtrYmd>
+<insttCode>3000000</insttCode>
+<insttNm>서울특별시 종로구</insttNm>
+</item>
+<item>
+<ctpvNm>서울특별시</ctpvNm>
+<sggNm>종로구</sggNm>
+<larWasNm>에어콘</larWasNm>
+<larWasSeNm>가전제품류</larWasSeNm>
+<larWasSpcfct>66㎡ 미만</larWasSpcfct>
+<paidFreeYn>유료</paidFreeYn>
+<fee>5000</fee>
+<mngInstNm>서울특별시 종로구청</mngInstNm>
+<crtrYmd>2026-09-07</crtrYmd>
+<insttCode>3000000</insttCode>
+<insttNm>서울특별시 종로구</insttNm>
+</item>
+<item>
+<ctpvNm>서울특별시</ctpvNm>
+<sggNm>종로구</sggNm>
+<larWasNm>에어콘</larWasNm>
+<larWasSeNm>가전제품류</larWasSeNm>
+<larWasSpcfct>66㎡ 이상</larWasSpcfct>
+<paidFreeYn>유료</paidFreeYn>
+<fee>8000</fee>
+<mngInstNm>서울특별시 종로구청</mngInstNm>
+<crtrYmd>2026-09-07</crtrYmd>
+<insttCode>3000000</insttCode>
+<insttNm>서울특별시 종로구</insttNm>
+</item>
+<item>
+<ctpvNm>서울특별시</ctpvNm>
+<sggNm>종로구</sggNm>
+<larWasNm>에어콘</larWasNm>
+<larWasSeNm>가전제품류</larWasSeNm>
+<larWasSpcfct>264㎡ 이상</larWasSpcfct>
+<paidFreeYn>유료</paidFreeYn>
+<fee>11000</fee>
+<mngInstNm>서울특별시 종로구청</mngInstNm>
+<crtrYmd>2026-09-07</crtrYmd>
+<insttCode>3000000</insttCode>
+<insttNm>서울특별시 종로구</insttNm>
+</item>
+<item>
+<ctpvNm>서울특별시</ctpvNm>
+<sggNm>종로구</sggNm>
+<larWasNm>에어콘</larWasNm>
+<larWasSeNm>가전제품류</larWasSeNm>
+<larWasSpcfct>업소용</larWasSpcfct>
+<paidFreeYn>유료</paidFreeYn>
+<fee>15000</fee>
+<mngInstNm>서울특별시 종로구청</mngInstNm>
+<crtrYmd>2026-09-07</crtrYmd>
+<insttCode>3000000</insttCode>
+<insttNm>서울특별시 종로구</insttNm>
+</item>
+<item>
+<ctpvNm>서울특별시</ctpvNm>
+<sggNm>종로구</sggNm>
+<larWasNm>안마의자</larWasNm>
+<larWasSeNm>가전제품류</larWasSeNm>
+<larWasSpcfct>모든규격</larWasSpcfct>
+<paidFreeYn>유료</paidFreeYn>
+<fee>20000</fee>
+<mngInstNm>서울특별시 종로구청</mngInstNm>
+<crtrYmd>2026-09-07</crtrYmd>
+<insttCode>3000000</insttCode>
+<insttNm>서울특별시 종로구</insttNm>
+</item>
+<item>
+<ctpvNm>서울특별시</ctpvNm>
+<sggNm>종로구</sggNm>
+<larWasNm>세탁기</larWasNm>
+<larWasSeNm>가전제품류</larWasSeNm>
+<larWasSpcfct>모든규격</larWasSpcfct>
+<paidFreeYn>유료</paidFreeYn>
+<fee>5000</fee>
+<mngInstNm>서울특별시 종로구청</mngInstNm>
+<crtrYmd>2026-09-07</crtrYmd>
+<insttCode>3000000</insttCode>
+<insttNm>서울특별시 종로구</insttNm>
+</item>
+<item>
+<ctpvNm>서울특별시</ctpvNm>
+<sggNm>종로구</sggNm>
+<larWasNm>선풍기</larWasNm>
+<larWasSeNm>가전제품류</larWasSeNm>
+<larWasSpcfct>날개 50cm 미만</larWasSpcfct>
+<paidFreeYn>무료</paidFreeYn>
+<fee>0</fee>
+<mngInstNm>서울특별시 종로구청</mngInstNm>
+<crtrYmd>2026-09-07</crtrYmd>
+<insttCode>3000000</insttCode>
+<insttNm>서울특별시 종로구</insttNm>
+</item>
+<item>
+<ctpvNm>서울특별시</ctpvNm>
+<sggNm>종로구</sggNm>
+<larWasNm>선풍기</larWasNm>
+<larWasSeNm>가전제품류</larWasSeNm>
+<larWasSpcfct>날개 50cm 이상</larWasSpcfct>
+<paidFreeYn>유료</paidFreeYn>
+<fee>3000</fee>
+<mngInstNm>서울특별시 종로구청</mngInstNm>
+<crtrYmd>2026-09-07</crtrYmd>
+<insttCode>3000000</insttCode>
+<insttNm>서울특별시 종로구</insttNm>
+</item>
+<item>
+<ctpvNm>서울특별시</ctpvNm>
+<sggNm>종로구</sggNm>
+<larWasNm>복사기</larWasNm>
+<larWasSeNm>가전제품류</larWasSeNm>
+<larWasSpcfct>모든규격</larWasSpcfct>
+<paidFreeYn>유료</paidFreeYn>
+<fee>11000</fee>
+<mngInstNm>서울특별시 종로구청</mngInstNm>
+<crtrYmd>2026-09-07</crtrYmd>
+<insttCode>3000000</insttCode>
+<insttNm>서울특별시 종로구</insttNm>
+</item>
+<item>
+<ctpvNm>서울특별시</ctpvNm>
+<sggNm>종로구</sggNm>
+<larWasNm>보일러</larWasNm>
+<larWasSeNm>가전제품류</larWasSeNm>
+<larWasSpcfct>가스보일러</larWasSpcfct>
+<paidFreeYn>유료</paidFreeYn>
+<fee>5000</fee>
+<mngInstNm>서울특별시 종로구청</mngInstNm>
+<crtrYmd>2026-09-07</crtrYmd>
+<insttCode>3000000</insttCode>
+<insttNm>서울특별시 종로구</insttNm>
+</item>
+<item>
+<ctpvNm>서울특별시</ctpvNm>
+<sggNm>종로구</sggNm>
+<larWasNm>보일러</larWasNm>
+<larWasSeNm>가전제품류</larWasSeNm>
+<larWasSpcfct>기름보일러</larWasSpcfct>
+<paidFreeYn>유료</paidFreeYn>
+<fee>8000</fee>
+<mngInstNm>서울특별시 종로구청</mngInstNm>
+<crtrYmd>2026-09-07</crtrYmd>
+<insttCode>3000000</insttCode>
+<insttNm>서울특별시 종로구</insttNm>
+</item>
+<item>
+<ctpvNm>서울특별시</ctpvNm>
+<sggNm>종로구</sggNm>
+<larWasNm>보온밥통</larWasNm>
+<larWasSeNm>가전제품류</larWasSeNm>
+<larWasSpcfct>모든규격</larWasSpcfct>
+<paidFreeYn>무료</paidFreeYn>
+<fee>0</fee>
+<mngInstNm>서울특별시 종로구청</mngInstNm>
+<crtrYmd>2026-09-07</crtrYmd>
+<insttCode>3000000</insttCode>
+<insttNm>서울특별시 종로구</insttNm>
+</item>
+<item>
+<ctpvNm>서울특별시</ctpvNm>
+<sggNm>종로구</sggNm>
+<larWasNm>다리미</larWasNm>
+<larWasSeNm>가전제품류</larWasSeNm>
+<larWasSpcfct>모든규격</larWasSpcfct>
+<paidFreeYn>무료</paidFreeYn>
+<fee>0</fee>
+<mngInstNm>서울특별시 종로구청</mngInstNm>
+<crtrYmd>2026-09-07</crtrYmd>
+<insttCode>3000000</insttCode>
+<insttNm>서울특별시 종로구</insttNm>
+</item>
+<item>
+<ctpvNm>서울특별시</ctpvNm>
+<sggNm>종로구</sggNm>
+<larWasNm>녹즙(믹서)기</larWasNm>
+<larWasSeNm>가전제품류</larWasSeNm>
+<larWasSpcfct>모든규격</larWasSpcfct>
+<paidFreeYn>무료</paidFreeYn>
+<fee>0</fee>
+<mngInstNm>서울특별시 종로구청</mngInstNm>
+<crtrYmd>2026-09-07</crtrYmd>
+<insttCode>3000000</insttCode>
+<insttNm>서울특별시 종로구</insttNm>
+</item>
+<item>
+<ctpvNm>서울특별시</ctpvNm>
+<sggNm>종로구</sggNm>
+<larWasNm>냉장고</larWasNm>
+<larWasSeNm>가전제품류</larWasSeNm>
+<larWasSpcfct>300L 미만</larWasSpcfct>
+<paidFreeYn>유료</paidFreeYn>
+<fee>6000</fee>
+<mngInstNm>서울특별시 종로구청</mngInstNm>
+<crtrYmd>2026-09-07</crtrYmd>
+<insttCode>3000000</insttCode>
+<insttNm>서울특별시 종로구</insttNm>
+</item>
+<item>
+<ctpvNm>서울특별시</ctpvNm>
+<sggNm>종로구</sggNm>
+<larWasNm>냉장고</larWasNm>
+<larWasSeNm>가전제품류</larWasSeNm>
+<larWasSpcfct>300L 이상</larWasSpcfct>
+<paidFreeYn>유료</paidFreeYn>
+<fee>8000</fee>
+<mngInstNm>서울특별시 종로구청</mngInstNm>
+<crtrYmd>2026-09-07</crtrYmd>
+<insttCode>3000000</insttCode>
+<insttNm>서울특별시 종로구</insttNm>
+</item>
+<item>
+<ctpvNm>서울특별시</ctpvNm>
+<sggNm>종로구</sggNm>
+<larWasNm>냉장고</larWasNm>
+<larWasSeNm>가전제품류</larWasSeNm>
+<larWasSpcfct>500L 이상</larWasSpcfct>
+<paidFreeYn>유료</paidFreeYn>
+<fee>11000</fee>
+<mngInstNm>서울특별시 종로구청</mngInstNm>
+<crtrYmd>2026-09-07</crtrYmd>
+<insttCode>3000000</insttCode>
+<insttNm>서울특별시 종로구</insttNm>
+</item>
+<item>
+<ctpvNm>서울특별시</ctpvNm>
+<sggNm>종로구</sggNm>
+<larWasNm>냉장고</larWasNm>
+<larWasSeNm>가전제품류</larWasSeNm>
+<larWasSpcfct>업소용</larWasSpcfct>
+<paidFreeYn>유료</paidFreeYn>
+<fee>15000</fee>
+<mngInstNm>서울특별시 종로구청</mngInstNm>
+<crtrYmd>2026-09-07</crtrYmd>
+<insttCode>3000000</insttCode>
+<insttNm>서울특별시 종로구</insttNm>
+</item>
+<item>
+<ctpvNm>서울특별시</ctpvNm>
+<sggNm>종로구</sggNm>
+<larWasNm>공기청정기</larWasNm>
+<larWasSeNm>가전제품류</larWasSeNm>
+<larWasSpcfct>높이 1m 미만</larWasSpcfct>
+<paidFreeYn>무료</paidFreeYn>
+<fee>0</fee>
+<mngInstNm>서울특별시 종로구청</mngInstNm>
+<crtrYmd>2026-09-07</crtrYmd>
+<insttCode>3000000</insttCode>
+<insttNm>서울특별시 종로구</insttNm>
+</item>
+<item>
+<ctpvNm>서울특별시</ctpvNm>
+<sggNm>종로구</sggNm>
+<larWasNm>공기청정기</larWasNm>
+<larWasSeNm>가전제품류</larWasSeNm>
+<larWasSpcfct>1m 이상</larWasSpcfct>
+<paidFreeYn>유료</paidFreeYn>
+<fee>5000</fee>
+<mngInstNm>서울특별시 종로구청</mngInstNm>
+<crtrYmd>2026-09-07</crtrYmd>
+<insttCode>3000000</insttCode>
+<insttNm>서울특별시 종로구</insttNm>
+</item>
+<item>
+<ctpvNm>서울특별시</ctpvNm>
+<sggNm>종로구</sggNm>
+<larWasNm>가습기</larWasNm>
+<larWasSeNm>가전제품류</larWasSeNm>
+<larWasSpcfct>모든규격</larWasSpcfct>
+<paidFreeYn>무료</paidFreeYn>
+<fee>0</fee>
+<mngInstNm>서울특별시 종로구청</mngInstNm>
+<crtrYmd>2026-09-07</crtrYmd>
+<insttCode>3000000</insttCode>
+<insttNm>서울특별시 종로구</insttNm>
+</item>
+<item>
+<ctpvNm>서울특별시</ctpvNm>
+<sggNm>종로구</sggNm>
+<larWasNm>가스오븐레인지</larWasNm>
+<larWasSeNm>가전제품류</larWasSeNm>
+<larWasSpcfct>높이 1m 미만</larWasSpcfct>
+<paidFreeYn>무료</paidFreeYn>
+<fee>0</fee>
+<mngInstNm>서울특별시 종로구청</mngInstNm>
+<crtrYmd>2026-09-07</crtrYmd>
+<insttCode>3000000</insttCode>
+<insttNm>서울특별시 종로구</insttNm>
+</item>
+<item>
+<ctpvNm>서울특별시</ctpvNm>
+<sggNm>종로구</sggNm>
+<larWasNm>가스오븐레인지</larWasNm>
+<larWasSeNm>가전제품류</larWasSeNm>
+<larWasSpcfct>높이 1m 이상</larWasSpcfct>
+<paidFreeYn>유료</paidFreeYn>
+<fee>6000</fee>
+<mngInstNm>서울특별시 종로구청</mngInstNm>
+<crtrYmd>2026-09-07</crtrYmd>
+<insttCode>3000000</insttCode>
+<insttNm>서울특별시 종로구</insttNm>
+</item>
+<item>
+<ctpvNm>서울특별시</ctpvNm>
+<sggNm>종로구</sggNm>
+<larWasNm>가스레인지받침</larWasNm>
+<larWasSeNm>가전제품류</larWasSeNm>
+<larWasSpcfct>모든규격</larWasSpcfct>
+<paidFreeYn>유료</paidFreeYn>
+<fee>3000</fee>
+<mngInstNm>서울특별시 종로구청</mngInstNm>
+<crtrYmd>2026-09-07</crtrYmd>
+<insttCode>3000000</insttCode>
+<insttNm>서울특별시 종로구</insttNm>
+</item>
+<item>
+<ctpvNm>서울특별시</ctpvNm>
+<sggNm>종로구</sggNm>
+<larWasNm>가스레인지</larWasNm>
+<larWasSeNm>가전제품류</larWasSeNm>
+<larWasSpcfct>폭 1m 미만</larWasSpcfct>
+<paidFreeYn>무료</paidFreeYn>
+<fee>0</fee>
+<mngInstNm>서울특별시 종로구청</mngInstNm>
+<crtrYmd>2026-09-07</crtrYmd>
+<insttCode>3000000</insttCode>
+<insttNm>서울특별시 종로구</insttNm>
+</item>
+<item>
+<ctpvNm>서울특별시</ctpvNm>
+<sggNm>종로구</sggNm>
+<larWasNm>화장대</larWasNm>
+<larWasSeNm>가구류</larWasSeNm>
+<larWasSpcfct>모든규격</larWasSpcfct>
+<paidFreeYn>유료</paidFreeYn>
+<fee>5000</fee>
+<mngInstNm>서울특별시 종로구청</mngInstNm>
+<crtrYmd>2026-09-07</crtrYmd>
+<insttCode>3000000</insttCode>
+<insttNm>서울특별시 종로구</insttNm>
+</item>
+<item>
+<ctpvNm>서울특별시</ctpvNm>
+<sggNm>종로구</sggNm>
+<larWasNm>캐비닛</larWasNm>
+<larWasSeNm>가구류</larWasSeNm>
+<larWasSpcfct>모든규격</larWasSpcfct>
+<paidFreeYn>유료</paidFreeYn>
+<fee>6000</fee>
+<mngInstNm>서울특별시 종로구청</mngInstNm>
+<crtrYmd>2026-09-07</crtrYmd>
+<insttCode>3000000</insttCode>
+<insttNm>서울특별시 종로구</insttNm>
+</item>
+<item>
+<ctpvNm>서울특별시</ctpvNm>
+<sggNm>종로구</sggNm>
+<larWasNm>칼라박스</larWasNm>
+<larWasSeNm>가구류</larWasSeNm>
+<larWasSpcfct>모든규격</larWasSpcfct>
+<paidFreeYn>유료</paidFreeYn>
+<fee>3000</fee>
+<mngInstNm>서울특별시 종로구청</mngInstNm>
+<crtrYmd>2026-09-07</crtrYmd>
+<insttCode>3000000</insttCode>
+<insttNm>서울특별시 종로구</insttNm>
+</item>
+<item>
+<ctpvNm>서울특별시</ctpvNm>
+<sggNm>종로구</sggNm>
+<larWasNm>카펫</larWasNm>
+<larWasSeNm>가구류</larWasSeNm>
+<larWasSpcfct>1㎡당</larWasSpcfct>
+<paidFreeYn>유료</paidFreeYn>
+<fee>3000</fee>
+<mngInstNm>서울특별시 종로구청</mngInstNm>
+<crtrYmd>2026-09-07</crtrYmd>
+<insttCode>3000000</insttCode>
+<insttNm>서울특별시 종로구</insttNm>
+</item>
+<item>
+<ctpvNm>서울특별시</ctpvNm>
+<sggNm>종로구</sggNm>
+<larWasNm>침대</larWasNm>
+<larWasSeNm>가구류</larWasSeNm>
+<larWasSpcfct>침대 헤드</larWasSpcfct>
+<paidFreeYn>유료</paidFreeYn>
+<fee>3000</fee>
+<mngInstNm>서울특별시 종로구청</mngInstNm>
+<crtrYmd>2026-09-07</crtrYmd>
+<insttCode>3000000</insttCode>
+<insttNm>서울특별시 종로구</insttNm>
+</item>
+<item>
+<ctpvNm>경기도</ctpvNm>
+<sggNm>남양주시</sggNm>
+<larWasNm>수족관</larWasNm>
+<larWasSeNm>생활용품류</larWasSeNm>
+<larWasSpcfct>높이 또는 폭(큰수) 1m 이상 ~ 2m 미만</larWasSpcfct>
+<paidFreeYn>유료</paidFreeYn>
+<fee>6000</fee>
+<mngInstNm>경기도 남양주시청</mngInstNm>
+<crtrYmd>2026-03-25</crtrYmd>
+<insttCode>3990000</insttCode>
+<insttNm>경기도 남양주시</insttNm>
+</item>
+<item>
+<ctpvNm>경기도</ctpvNm>
+<sggNm>남양주시</sggNm>
+<larWasNm>수족관</larWasNm>
+<larWasSeNm>생활용품류</larWasSeNm>
+<larWasSpcfct>높이 또는 폭(큰수) 0.5m 이상 ~ 1m 미만</larWasSpcfct>
+<paidFreeYn>유료</paidFreeYn>
+<fee>4000</fee>
+<mngInstNm>경기도 남양주시청</mngInstNm>
+<crtrYmd>2026-03-25</crtrYmd>
+<insttCode>3990000</insttCode>
+<insttNm>경기도 남양주시</insttNm>
+</item>
+<item>
+<ctpvNm>경기도</ctpvNm>
+<sggNm>남양주시</sggNm>
+<larWasNm>수족관</larWasNm>
+<larWasSeNm>생활용품류</larWasSeNm>
+<larWasSpcfct>높이 또는 폭(큰수) 0.5m 미만</larWasSpcfct>
+<paidFreeYn>유료</paidFreeYn>
+<fee>3000</fee>
+<mngInstNm>경기도 남양주시청</mngInstNm>
+<crtrYmd>2026-03-25</crtrYmd>
+<insttCode>3990000</insttCode>
+<insttNm>경기도 남양주시</insttNm>
+</item>
+<item>
+<ctpvNm>경기도</ctpvNm>
+<sggNm>남양주시</sggNm>
+<larWasNm>교자상(밥상)</larWasNm>
+<larWasSeNm>생활용품류</larWasSeNm>
+<larWasSpcfct>가로, 세로 1.5m 이상</larWasSpcfct>
+<paidFreeYn>유료</paidFreeYn>
+<fee>3000</fee>
+<mngInstNm>경기도 남양주시청</mngInstNm>
+<crtrYmd>2026-03-25</crtrYmd>
+<insttCode>3990000</insttCode>
+<insttNm>경기도 남양주시</insttNm>
+</item>
+<item>
+<ctpvNm>경기도</ctpvNm>
+<sggNm>남양주시</sggNm>
+<larWasNm>교자상(밥상)</larWasNm>
+<larWasSeNm>생활용품류</larWasSeNm>
+<larWasSpcfct>가로, 세로 1.5m 미만</larWasSpcfct>
+<paidFreeYn>유료</paidFreeYn>
+<fee>2000</fee>
+<mngInstNm>경기도 남양주시청</mngInstNm>
+<crtrYmd>2026-03-25</crtrYmd>
+<insttCode>3990000</insttCode>
+<insttNm>경기도 남양주시</insttNm>
+</item>
+<item>
+<ctpvNm>충청남도</ctpvNm>
+<sggNm>홍성군</sggNm>
+<larWasNm>에어컨(온풍기)</larWasNm>
+<larWasSeNm>가전제품류</larWasSeNm>
+<larWasSpcfct>264㎡ 형 이상</larWasSpcfct>
+<paidFreeYn>무료</paidFreeYn>
+<fee>0</fee>
+<mngInstNm>충청남도 홍성군청</mngInstNm>
+<crtrYmd>2026-06-30</crtrYmd>
+<insttCode>4600000</insttCode>
+<insttNm>충청남도 홍성군</insttNm>
+</item>
+<item>
+<ctpvNm>충청남도</ctpvNm>
+<sggNm>홍성군</sggNm>
+<larWasNm>에어컨(온풍기)</larWasNm>
+<larWasSeNm>가전제품류</larWasSeNm>
+<larWasSpcfct>66㎡ 형 이상</larWasSpcfct>
+<paidFreeYn>무료</paidFreeYn>
+<fee>0</fee>
+<mngInstNm>충청남도 홍성군청</mngInstNm>
+<crtrYmd>2026-06-30</crtrYmd>
+<insttCode>4600000</insttCode>
+<insttNm>충청남도 홍성군</insttNm>
+</item>
+<item>
+<ctpvNm>충청남도</ctpvNm>
+<sggNm>홍성군</sggNm>
+<larWasNm>에어컨(온풍기)</larWasNm>
+<larWasSeNm>가전제품류</larWasSeNm>
+<larWasSpcfct>66㎡ 형 미만</larWasSpcfct>
+<paidFreeYn>무료</paidFreeYn>
+<fee>0</fee>
+<mngInstNm>충청남도 홍성군청</mngInstNm>
+<crtrYmd>2026-06-30</crtrYmd>
+<insttCode>4600000</insttCode>
+<insttNm>충청남도 홍성군</insttNm>
+</item>
+<item>
+<ctpvNm>충청남도</ctpvNm>
+<sggNm>홍성군</sggNm>
+<larWasNm>장롱</larWasNm>
+<larWasSeNm>가구류</larWasSeNm>
+<larWasSpcfct>120㎝이상 1쪽</larWasSpcfct>
+<paidFreeYn>유료</paidFreeYn>
+<fee>18000</fee>
+<mngInstNm>충청남도 홍성군청</mngInstNm>
+<crtrYmd>2026-06-30</crtrYmd>
+<insttCode>4600000</insttCode>
+<insttNm>충청남도 홍성군</insttNm>
+</item>
+</items><totalCount>46</totalCount></body></response>

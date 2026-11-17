@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>우리동네 대형폐기물 수수료 안내</title>
+<link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+<main>
+  <h1>우리동네 대형폐기물 수수료 안내</h1>
+  <p class="sub">사진을 올리면 품목을 추천하고, 품목과 규격을 확인하면 예상 수수료와 산정 근거를 보여 드립니다.</p>
+  <div id="data-banner" class="banner" hidden></div>
+
+  <section class="card">
+    <h2>① 배출 지역</h2>
+    <label for="region-q">시·군·구 검색</label>
+    <input id="region-q" type="text" autocomplete="off" placeholder="예: 종로구, 남양주">
+    <div id="region-results" class="chips" aria-live="polite"></div>
+    <p id="region-chosen" class="chosen" hidden></p>
+  </section>
+
+  <section class="card" id="item-card" hidden>
+    <h2>② 버릴 물건</h2>
+
+    <h3>사진으로 찾기 (AI 추천)</h3>
+    <label for="photo">물건 사진 (JPG·PNG·WEBP, 5MB 이하)</label>
+    <div class="row">
+      <input id="photo" type="file" accept="image/jpeg,image/png,image/webp,image/gif">
+      <button id="identify" type="button">품목 찾기</button>
+    </div>
+    <img id="preview" class="preview" alt="올린 사진 미리보기" hidden>
+    <div id="ai-result" aria-live="polite"></div>
+
+    <h3>직접 검색·선택</h3>
+    <p class="hint">추천이 맞지 않거나 사진이 없다면 여기서 찾으세요.</p>
+    <label for="query">물건 이름 (예: 낡은 쇼파, 냉장고)</label>
+    <div class="row">
+      <input id="query" type="text" placeholder="품목을 입력하세요">
+      <button id="search" type="button">검색</button>
+    </div>
+    <div id="matches" class="chips" aria-live="polite"></div>
+    <label for="items">또는 목록에서 선택</label>
+    <select id="items"></select>
+  </section>
+
+  <section class="card" id="spec-card" hidden>
+    <h2>③ 규격 확인</h2>
+    <div id="spec-options" class="chips"></div>
+    <div id="measure-box" hidden>
+      <label for="measure" id="measure-label">실측값</label>
+      <div class="row">
+        <input id="measure" type="number" min="0" step="any" inputmode="decimal">
+        <button id="measure-go" type="button">실측값으로 판정</button>
+      </div>
+    </div>
+  </section>
+
+  <section class="card" id="result-card" hidden aria-live="polite">
+    <h2>④ 예상 수수료</h2>
+    <p class="fee" id="fee"></p>
+    <p class="explain" id="explain"></p>
+    <p class="caution" id="boundary" hidden></p>
+    <dl id="basis"></dl>
+    <div id="alt-box" hidden>
+      <h3>다른 규격과 비교</h3>
+      <table class="alt"><thead><tr><th>규격</th><th>수수료</th><th>차이</th></tr></thead><tbody id="alt"></tbody></table>
+    </div>
+    <div id="ordin-box" hidden>
+      <h3>조례 별표 원문 (법제처)</h3>
+      <ul id="ordin"></ul>
+      <p class="hint">금액을 직접 대조한 것이 아니라, 지자체 조례의 수수료 표 원문으로 연결하는 링크입니다.</p>
+    </div>
+    <p class="notice" id="notice"></p>
+    <p class="warn" id="conflict" hidden></p>
+    <div class="actions">
+      <button id="add" type="button">이 품목을 목록에 담기</button>
+      <button id="copy" type="button" class="ghost">근거 복사</button>
+      <span id="copy-msg" class="hint" role="status"></span>
+    </div>
+  </section>
+
+  <section class="card" id="cart-card" hidden>
+    <h2>담은 품목 합계</h2>
+    <ul id="cart"></ul>
+    <p class="fee" id="total"></p>
+    <button id="clear" type="button" class="ghost">비우기</button>
+  </section>
+  <p id="error" class="error" role="alert" hidden></p>
+</main>
+<script src="/static/app.js"></script>
+</body>
+</html>
